@@ -3,9 +3,9 @@
 Instaladores oficiais de tokens e cartões para Certificado Digital A3, usados pela página
 https://arhelper.com.br/drivers.
 
-Os arquivos ficam nas **Releases** deste repositório. A página usa o endereço
-`releases/latest/download/<arquivo>`, então para atualizar um driver basta publicar uma nova
-release com o **mesmo nome de arquivo**.
+Os instaladores ficam na raiz deste repositório. A página usa o endereço
+`https://github.com/HelperSolutions/drivers/raw/main/<arquivo>`, então para atualizar um driver
+basta substituir o arquivo mantendo o **mesmo nome**.
 
 | Dispositivo | Arquivo |
 |---|---|
